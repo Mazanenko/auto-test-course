@@ -1,2 +1,2 @@
 # auto-test-course
-For Stepik
+For Stepik homework
